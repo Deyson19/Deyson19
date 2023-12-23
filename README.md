@@ -1,12 +1,12 @@
 ### Hola 👋, Mi nombre es **Deyson Venté**
-#### Soy ***Desarrollador de software júnior.***
+#### Soy ***Tecnólogo en Desarrollo de Software.***
 ![Soy estudiante de semestres avanzado de Desarrollador de software.](https://raw.githubusercontent.com/Deyson19/misImagenes/master/bannerGithub/banner%20github.png)
 
 Soy muy apasionado con lo que hago, siempre doy lo mejor de mi en cualquier sircunstancia en la que me encuentre, busco la mejora constante y siempre me apoyo y tomo lo mejor que me pueden aportar las personas que más saben del área. Me gusta controlar mi tiempo en las actividades que realizo evitando la superposición a mi planificación.
 
 Habilidades: C# / JAVA / JS / HTML / CSS / PHP / MySQL / SQL Server / Oracle
 
-- 🌱 Estoy aprendiendo MongoDB 
+- 🌱 Estoy aprendiendo Flutter 
 - 💬 Pregúntame acerca de Mis hobbies, libros que haya leído... 
 - 📫 Cómo contactarme: deisonandresv@gmail.com 
 
