@@ -1,8 +1,10 @@
 ### Hola 👋, Soy **Deyson Venté**
 
-#### Soy **_Tecnólogo en Desarrollo de Software._**
+![Profile views](https://komarev.com/ghpvc/?username=Deyson19&color=green)
 
-Soy muy apasionado con lo que hago, dispuesto a dar lo mejor para alcanzar objetivos, busco la mejora constante y siempre aprendo de las personas que más saben en el área. Planifico constantemente mi tiempo para conseguir el mejor rendimiento posible.
+#### **_Tecnólogo en Desarrollo de Software._**
+
+Muy pasionado con lo que hago, superación constante, dispuesto a dar lo mejor de mí para alcanzar objetivos, busco la mejora continua aprendiendo de las personas que más saben. Planifico constantemente mi tiempo para conseguir el mejor rendimiento posible.
 
 **Habilidades**: `C# / JAVA / JS / HTML / Bootstrap / Angular / SQL Server / PostgreSQL / TypeScript / NodeJS` .
 
@@ -24,5 +26,3 @@ Soy muy apasionado con lo que hago, dispuesto a dar lo mejor para alcanzar objet
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Deyson19&show_icons=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Deyson19)
-
-![Profile views](https://komarev.com/ghpvc/?username=Deyson19&color=green)
