@@ -1,13 +1,11 @@
-### Hola 👋, Mi nombre es **Deyson Venté**
+### Hola 👋, Soy **Deyson Venté**
 
 #### Soy **_Tecnólogo en Desarrollo de Software._**
 
-<!-- ![Soy estudiante de semestres avanzado de Desarrollador de software.](https://raw.githubusercontent.com/Deyson19/misImagenes/master/bannerGithub/banner%20github.png) -->
-
 Soy muy apasionado con lo que hago, dispuesto a dar lo mejor para alcanzar objetivos, busco la mejora constante y siempre aprendo de las personas que más saben en el área. Planifico constantemente mi tiempo para conseguir el mejor rendimiento posible.
 
-**Habilidades**: `C# / JAVA / JS / HTML / CSS / MySQL / SQL Server / Oracle`
-**Experiencia**: Cerca de 2 años desarrollando como Full-Stack en .NET principalmente.
+**Habilidades**: `C# / JAVA / JS / HTML / Bootstrap / Angular / SQL Server / PostgreSQL / TypeScript / NodeJS`
+**Experiencia**: Cerca de 2 años desarrollando como Full-Stack en .NET.
 
 - 🌱 Estoy aprendiendo Angular y TypeScript
 - 💬 Siempre dispuesto a aprender nuevas habilidades...
@@ -15,7 +13,8 @@ Soy muy apasionado con lo que hago, dispuesto a dar lo mejor para alcanzar objet
 
 ## Actividad Actual
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deyson19&bg_color=adb6c2&color=00080f&line=f2eb2c&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deyson19&bg_color=02184b&color=f5f906&line=050505&point=f1efef&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Deyson19) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/deysonvente//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/deyson_vente/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC3pc9SwxmLhtc--e_O1Psmg)
 
