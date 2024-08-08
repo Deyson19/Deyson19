@@ -4,7 +4,8 @@
 
 Soy muy apasionado con lo que hago, dispuesto a dar lo mejor para alcanzar objetivos, busco la mejora constante y siempre aprendo de las personas que más saben en el área. Planifico constantemente mi tiempo para conseguir el mejor rendimiento posible.
 
-**Habilidades**: `C# / JAVA / JS / HTML / Bootstrap / Angular / SQL Server / PostgreSQL / TypeScript / NodeJS`
+**Habilidades**: `C# / JAVA / JS / HTML / Bootstrap / Angular / SQL Server / PostgreSQL / TypeScript / NodeJS` .
+
 **Experiencia**: Cerca de 2 años desarrollando como Full-Stack en .NET.
 
 - 🌱 Estoy aprendiendo Angular y TypeScript
