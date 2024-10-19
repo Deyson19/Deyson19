@@ -6,11 +6,11 @@
 
 Muy pasionado con lo que hago, superación constante, dispuesto a dar lo mejor de mí para alcanzar objetivos, busco la mejora continua aprendiendo de las personas que más saben. Planifico constantemente mi tiempo para conseguir el mejor rendimiento posible.
 
-**Habilidades**: `C# / JAVA / JS / HTML / Bootstrap / Angular / SQL Server / PostgreSQL / TypeScript / NodeJS` .
+**Habilidades**: `C# / .NET / Angular / SQL Server / PostgreSQL / TypeScript / NodeJS` .
 
-**Experiencia**: Cerca de 2 años desarrollando como Full-Stack en .NET.
+**Experiencia**: 2+ años de experiencia como Desarrollador Full-Stack en .NET principalmente.
 
-- 🌱 Estoy aprendiendo Angular y TypeScript
+- 🌱 Estoy aprendiendo NodeJS
 - 💬 Siempre dispuesto a aprender nuevas habilidades...
 - 📫 Cómo contactarme: <deisonandresv@gmail.com>
 
